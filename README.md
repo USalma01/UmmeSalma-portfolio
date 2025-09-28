@@ -1,3 +1,4 @@
+[Uploading index.html…]()
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -126,6 +127,7 @@
     <h2>📫 Connect with Me</h2>
     <p>📧 Email: azzunus19@gmail.com</p>
     <p>🔗 GitLab: <a href="https://gitlab.com/NUS_01">NUS_01</a></p>
+    
     <p>🌐 LinkedIn: <a href="https://in.linkedin.com/in/umme-salma-97b3a329b">LinkedIn Profile</a></p>
   </section>
 
