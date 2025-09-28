@@ -1,82 +1,71 @@
-[styles.css](https://github.com/user-attachments/files/22580858/styles.css)# NUS-01
-Personal portfolio and resume website showcasing academic projects, research, and skills.
-[index.html](https://github.com/user-attachments/files/22580857/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Nagur Umme Salma — M.Tech Portfolio</title>
-  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #111;
+    }
+    header {
+      text-align: center;
+      background: #0ea5a4;
+      color: #fff;
+      padding: 50px 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    .project {
+      background: #fff;
+      padding: 20px;
+      margin: 15px 0;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #eee;
+      margin-top: 40px;
+    }
+    a {
+      color: #0ea5a4;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
   <header>
     <h1>🚀 Nagur Umme Salma</h1>
     <p>🎓 M.Tech Scholar | 🎮 AR/VR & AI Enthusiast</p>
-    <p>📍 Andhra Pradesh, India | 🌐 Building Technology for Real-World Impact</p>[body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;[undex.html](https://github.com/user-attachments/files/22580861/undex.html)[undex.html](https://github.com/user-attachments/files/22580862/undex.html)
-
-  margin: 0;
-  padding: 0;
-  background: #f9f9f9;
-  color: #111;
-}
-
-header {
-  text-align: center;
-  background: #0ea5a4;
-  color: #fff;
-  padding: 50px 20px;
-}
-
-header h1 {
-  margin: 0;
-  font-size: 2rem;
-}
-
-section {
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 0 20px;
-}
-
-.project {
-  background: #fff;
-  padding: 20px;
-  margin: 15px 0;
-  border-radius: 8px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-}
-
-ul {
-  padding-left: 20px;
-}
-
-footer {
-  text-align: center;
-  padding: 20px;
-  background: #eee;
-  margin-top: 40px;
-}
-
-a {
-  color: #0ea5a4;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-Uploading styles.css…]()
-
+    <p>📍 Andhra Pradesh, India | 🌐 Building Technology for Real-World Impact</p>
     <p>⚡ Quick Learner | 🤝 Team Player | 🎯 Goal-Oriented</p>
   </header>
 
   <section id="about">
     <h2>👋 About Me</h2>
     <p>💡 Hello! I’m <strong>Nagur Umme Salma</strong>, a passionate M.Tech Computer Science student.  
-    I enjoy designing applications, working with AR/VR technologies, and solving real-world problems.  
-    My aim is to create reliable, user-friendly software that makes a difference in education, healthcare, and everyday life.</p>
+      I enjoy designing applications, working with AR/VR technologies, and solving real-world problems.  
+      My aim is to create reliable, user-friendly software that makes a difference in education, healthcare, and everyday life.</p>
     <p>💬 I adapt quickly, work well in teams, and continuously upgrade my skills to stay ahead in technology.</p>
   </section>
 
@@ -137,7 +126,6 @@ Uploading styles.css…]()
     <h2>📫 Connect with Me</h2>
     <p>📧 Email: azzunus19@gmail.com</p>
     <p>🔗 GitLab: <a href="https://gitlab.com/NUS_01">NUS_01</a></p>
-    <p>🔗 GitHub: <a href="</a></p>
     <p>🌐 LinkedIn: <a href="https://in.linkedin.com/in/umme-salma-97b3a329b">LinkedIn Profile</a></p>
   </section>
 
